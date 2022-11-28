@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshit8756
-- 👀 I’m interested in ... Web developer
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... Amazon
+- 👀 I’m interested in ... Web developer, Problem Solving
+- 🌱 I’m currently learning ... Java Programming , Cloud Computing(AWS) 
+- 💞️ I’m looking to collaborate on ... AMAZON , GOOGLE , WIPRO , TCS , COGNIZANT , ACCENTURE
 - 📫 How to reach me ... serch on github harshit8756
 
 <!---
