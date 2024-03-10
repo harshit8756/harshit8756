@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harshit Yadav</h1>
-<h3 align="center">A passionate Java backend developer</h3>
-
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1000_1488/0/1636176827432?e=1714003200&v=beta&t=qHgo8yv_OAhkOnmIYeVbsHkR_GvCR4MCeL2eGvE-W0c">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit8756&label=Profile%20views&color=0e75b6&style=flat" alt="harshit8756" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit8756" alt="harshit8756" /></a> </p>
+<h1 align="center">Hi 👋, I'm Harshit Yadav</h1>
+<h3 align="center">A passionate Java backend developer</h3>
 
 - 🔭 I’m currently working on [Satellite Detection and Navigation](https://github.com/harshit8756/Satellite_Detection_System.git)
 
