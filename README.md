@@ -1,7 +1,9 @@
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1000_1488/0/1636176827432?e=1714003200&v=beta&t=qHgo8yv_OAhkOnmIYeVbsHkR_GvCR4MCeL2eGvE-W0c">
 
 <h1 align="center">Hi 👋, I'm Harshit Yadav</h1>
 <h3 align="center">A passionate Java backend developer</h3>
+
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C5612AQGvwJW8k43zdA/article-inline_image-shrink_1000_1488/0/1636176827432?e=1714003200&v=beta&t=qHgo8yv_OAhkOnmIYeVbsHkR_GvCR4MCeL2eGvE-W0c">
+
 
 - 🔭 I’m currently working on [Satellite Detection and Navigation](https://github.com/harshit8756/Satellite_Detection_System.git)
 
