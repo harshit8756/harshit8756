@@ -149,10 +149,13 @@ I'm particularly interested in how **AI agents can understand business context, 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/harshit8756/harshit8756/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshit8756/harshit8756/gh-pages/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshit8756/harshit8756/gh-pages/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/harshit8756/harshit8756/gh-pages/github-snake.svg">
+</picture>
 
 </div>
-
 ---
 
 ## 📜 Developer Journey
