@@ -1,115 +1,209 @@
-# 🤖 Agent Nexus
+<div align="center">
 
-### AI-First Salesforce Enterprise Platform
+# 👋 Hi, I'm Harshit Yadav
 
-> An ongoing personal project exploring how **Agentforce, Apex, LWC, Flow, and Experience Cloud** can work together to build intelligent, secure, and action-oriented Salesforce applications.
+### Salesforce Developer | Agentforce & AI | Apex | LWC | Integrations
 
----
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=00A1E0&center=true&vCenter=true&width=650&lines=Salesforce+Developer;Agentforce+%26+AI+Enthusiast;Apex+%7C+LWC+%7C+Flow;Enterprise+Integration+Developer;Building+AI-Powered+Salesforce+Solutions" alt="Typing SVG" />
+</a>
 
-## 🚀 Overview
+<br/>
 
-**Agent Nexus** is a personal Salesforce engineering project focused on building an AI-first workspace where users can interact with Salesforce data, receive contextual insights, and initiate business actions through AI-powered experiences.
+**☁️ Salesforce Engineering · 🤖 Agentic AI · 🔗 Enterprise Integration**
 
-The project explores enterprise patterns around:
-
-* 🤖 Agentforce and AI agents
-* ⚡ Apex and Salesforce automation
-* 🧩 Lightning Web Components
-* 🔄 Salesforce Flow
-* 🌐 Experience Cloud
-* 🔐 Salesforce security and access control
-* 🔗 Enterprise integration patterns
+</div>
 
 ---
 
-## 🧠 Architecture
+## 👨‍💻 About Me
 
-The platform is being designed around specialized AI capabilities for different business scenarios:
+I'm a **Salesforce Developer** focused on building scalable solutions across **Service Cloud, Experience Cloud, automation, integrations, and AI-powered Salesforce experiences**.
+
+I enjoy turning business requirements into secure, maintainable solutions using **Apex, Lightning Web Components, Flow, APIs, and Agentforce**.
+
+> **My focus:** Building practical solutions where Salesforce, AI and enterprise integration come together.
+
+---
+
+## 🧩 What I Work With
+
+| ☁️ Salesforce    | 🤖 AI & Automation | 🔗 Integration    | ⚙️ Development |
+| ---------------- | ------------------ | ----------------- | -------------- |
+| Apex             | Agentforce         | REST APIs         | Java           |
+| LWC              | Einstein AI        | SOAP APIs         | JavaScript     |
+| Flow             | Prompt Builder     | OAuth 2.0         | Git            |
+| Service Cloud    | Omni-Channel       | Named Credentials | Salesforce CLI |
+| Experience Cloud | AI Automation      | HTTP Callouts     | Azure DevOps   |
+| SOQL / SOSL      | AI Experiences     | JSON              | Postman        |
+
+---
+
+## 🤖 Salesforce + AI
 
 ```text
-                         Agent Nexus
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-        Sales Agent      Service Agent    Knowledge Agent
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                              ▼
-                       Salesforce Platform
-                              │
-                 ┌────────────┼────────────┐
-                 │            │            │
-                 ▼            ▼            ▼
-               Apex         Flow          LWC
-                 │            │            │
-                 └────────────┼────────────┘
-                              │
-                              ▼
-                     Business Actions
-                              │
-                              ▼
-                     Salesforce Data
+                     ┌─────────────────────┐
+                     │     🤖 AI Layer     │
+                     │ Agentforce • AI     │
+                     │ Prompt Builder      │
+                     └──────────┬──────────┘
+                                │
+                                ▼
+                    ┌──────────────────────┐
+                    │ ☁️ Salesforce Core   │
+                    │ CRM • Service • Exp. │
+                    └──────────┬───────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+           ⚡ Apex           🔄 Flow           🧩 LWC
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                     🔐 Security & Access
+                               │
+                               ▼
+                      🔗 External Systems
+                         REST • SOAP
+                         OAuth • APIs
 ```
 
 ---
 
-## ✨ Key Capabilities
+# 🚀 Featured Work
 
-* Conversational access to Salesforce data
-* Contextual record insights
-* AI-powered recommendations
-* Agent selection and specialized agent experiences
-* Quick business actions
-* Secure Salesforce data access
-* AI-powered Experience Cloud self-service
-* Reusable Lightning Web Components
+### 🤖 Agent Nexus
 
----
+**AI-First Salesforce Enterprise Platform**
 
-## 🛠️ Technology Stack
+An ongoing personal project exploring how **Agentforce, Apex, LWC, Flow and Experience Cloud** can work together to create intelligent enterprise Salesforce applications.
 
-| Area        | Technologies                             |
-| ----------- | ---------------------------------------- |
-| Salesforce  | Apex, LWC, Flow, Experience Cloud        |
-| AI          | Agentforce, Prompt Builder               |
-| Data        | Salesforce CRM Data                      |
-| Security    | CRUD/FLS, Sharing Rules, Permission Sets |
-| Development | Salesforce CLI, VS Code, Git             |
-| Integration | REST APIs, Apex Callouts                 |
+**Exploring:**
+
+`Multi-Agent Architecture` · `Agentforce Studio` · `AI Workspace` · `Contextual Insights` · `Business Actions` · `Secure Data Access`
+
+👉 **[View Agent Nexus](https://github.com/harshit8756/agent-nexus-salesforce)**
 
 ---
 
-## 📂 Project Status
+### 🔗 Salesforce Integration Patterns
 
-🚧 **In Development**
+A portfolio collection focused on secure Salesforce integration concepts:
 
-This project is being developed incrementally, with the architecture and core Salesforce capabilities being implemented step by step.
+`REST` · `SOAP` · `OAuth 2.0` · `Named Credentials` · `Apex Callouts` · `JSON`
 
----
-
-## 🎯 Goals
-
-The main goals of Agent Nexus are to explore:
-
-1. AI-powered Salesforce experiences
-2. Multi-agent architecture
-3. Secure AI access to Salesforce data
-4. Agent-driven business actions
-5. Reusable enterprise Salesforce components
-6. Scalable Salesforce architecture and integration patterns
+> Planned portfolio project
 
 ---
 
-## 👨‍💻 Author
+### 🧩 Enterprise LWC Components
 
-**Harshit Yadav**
+Reusable Lightning Web Component patterns focused on clean UI, component communication, data handling and enterprise Salesforce development.
 
-Salesforce Developer | Agentforce & AI | Apex | LWC | Integrations
-
-[LinkedIn](https://www.linkedin.com/in/harshit-yadav-63755b225/) · [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/harshityadav)
+> Planned portfolio project
 
 ---
 
-> ⚠️ This is a personal portfolio project. It does not contain proprietary code, customer data, credentials, or confidential information from any client or employer.
+## 🏆 Certifications
+
+<p>
+<img src="https://img.shields.io/badge/Salesforce-Administrator-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Salesforce-Platform%20Developer%20I-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Copado-Fundamentals%20I-6E56CF?style=flat-square" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+```text
+Agentic AI
+    ↓
+Salesforce + AI
+    ↓
+Intelligent Automation
+    ↓
+Enterprise Integration
+    ↓
+AI-Powered Business Applications
+```
+
+I'm particularly interested in how **AI agents can understand business context, work with Salesforce data, and trigger controlled business actions**.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshit8756&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit8756&layout=compact&hide_border=true&theme=transparent" height="165"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/harshit8756/harshit8756/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+</div>
+
+---
+
+## 📜 Developer Journey
+
+```text
+Java & Software Development
+            │
+            ▼
+     Salesforce Development
+            │
+      ┌─────┴─────┐
+      ▼           ▼
+    Apex/LWC   Integrations
+      │           │
+      └─────┬─────┘
+            ▼
+       Enterprise
+        Salesforce
+            │
+            ▼
+        Einstein AI
+            │
+            ▼
+       🤖 Agentforce
+            │
+            ▼
+      🚀 AI-First Apps
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/harshit-yadav-63755b225/">
+<img src="https://img.shields.io/badge/LinkedIn-Harshit%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.salesforce.com/trailblazer/harshityadav">
+<img src="https://img.shields.io/badge/Salesforce-Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Salesforce · 🤖 AI · 🔗 Integration · 🚀 Automation
+
+*Building what's next at the intersection of Salesforce and AI.*
+
+</div>
