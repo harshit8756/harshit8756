@@ -133,13 +133,33 @@ I'm particularly interested in how **AI agents can understand business context, 
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshit8756&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
+<a href="https://github.com/harshit8756">
+  <img src="https://img.shields.io/github/followers/harshit8756?style=for-the-badge&logo=github&label=Followers" />
+</a>
+&nbsp;
+<a href="https://github.com/harshit8756?tab=repositories">
+  <img src="https://img.shields.io/github/stars/harshit8756?style=for-the-badge&logo=github&label=Stars" />
+</a>
+&nbsp;
+<a href="https://github.com/harshit8756?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-Explore-181717?style=for-the-badge&logo=github" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit8756&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+**☁️ Salesforce · 🤖 AI · 🔗 Integrations · ⚡ Automation**
+
+<a href="https://github.com/harshit8756">
+  Explore my repositories →
+</a>
 
 </div>
 
